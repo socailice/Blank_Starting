@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "478483318019",
+    "project_id": "finalbaraf",
+    "storage_bucket": "finalbaraf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478483318019:android:117f87926f5931afd8d536",
+        "android_client_info": {
+          "package_name": "com.example.kush"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDat7BIK8EBu-aMPZVqFQRlb9Puxj4FMM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
